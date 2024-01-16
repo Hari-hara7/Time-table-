@@ -1,3 +1,4 @@
+VISIT THE WEBSITE https://hari-hara7.github.io/Time-table-/
 Smart Study Notes - Your Personalized Timetable Creator
 
 Overview:
@@ -30,3 +31,4 @@ Footer Information:
 The footer includes the copyright notice, ensuring that the website is aligned with Smart Study Notes branding and ownership.
 
 Smart Study Notes is not just a timetable creator; it's a tool designed to enhance your study experience, making learning more structured and enjoyable. Start creating your personalized timetable today and take control of your academic journey with Smart Study Notes.
+VISIT THE WEBSITE https://hari-hara7.github.io/Time-table-/
